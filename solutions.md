@@ -1,5 +1,5 @@
 # Solutions
 
-- [leetcode_0001](simple/leetcode_0001.rb)
-- [leetcode_0002](simple/leetcode_0002.rb)
-- [leetcode_0003](dynamic_programming/leetcode_0003/leetcode_0003.rb)
+- [leetcode_0001](simulate/leetcode_0001/leetcode_0001.md)
+- [leetcode_0002](simulate/leetcode_0002/leetcode_0002.md)
+- [leetcode_0003](dynamic_programming/leetcode_0003/leetcode_0003.md)

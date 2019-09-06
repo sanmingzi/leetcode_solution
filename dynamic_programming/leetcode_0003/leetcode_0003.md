@@ -1,6 +1,7 @@
 # leetcode_0003
 
-[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [source code by ruby](leetcode_0003.rb)
 
 ## problem desciption
 
