@@ -1,7 +1,7 @@
 # leetcode_0141
 
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [source code by ruby](leetcode_0141.js)
+- [source code by Javascript](leetcode_0141.js)
 
 ## problem desciption
 
