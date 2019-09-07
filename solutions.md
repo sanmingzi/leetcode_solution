@@ -19,3 +19,7 @@
 ## Geometry
 
 - [leetcode_0149](geometry/leetcode_0149/leetcode_0149.md)
+
+## Math
+
+- [leetcode_0172 Factorial Trailing Zeroes](math/leetcode_0172/leetcode_0172.md)
