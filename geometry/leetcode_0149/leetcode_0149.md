@@ -1,7 +1,7 @@
 # leetcode_0149
 
-[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
-[source code by Ruby](leetcode_0149.rb)
+- [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+- [source code by Ruby](leetcode_0149.rb)
 
 ## problem description
 
