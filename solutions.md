@@ -14,6 +14,7 @@
 
 ## Linked List
 
+- [leetcode_0025 Reverse Nodes in k-Group](linked_list/leetcode_0025/leetcode_0025.md)
 - [leetcode_0141](linked_list/leetcode_0141/leetcode_0141.md)
 - [leetcode_0160](linked_list/leetcode_0160/leetcode_0160.md)
 
