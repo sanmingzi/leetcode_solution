@@ -33,7 +33,8 @@
 ## DFS(Depth First Search)
 
 - [leetcode_0030 Substring with Concatenation of All Words](dfs/leetcode_0030/leetcode_0030.md)
+- [leetcode_0037 Sudoku Solver](dfs/leetcode_0037/leetcode_0037.md)
 
 ## Stack
 
-- [leetcode_0032 https://leetcode.com/problems/longest-valid-parentheses/](stack/leetcode_0032/leetcode_0032.md)
+- [leetcode_0032 Longest Valid Parentheses](stack/leetcode_0032/leetcode_0032.md)
