@@ -33,3 +33,7 @@
 ## DFS(Depth First Search)
 
 - [leetcode_0030 Substring with Concatenation of All Words](dfs/leetcode_0030/leetcode_0030.md)
+
+## Stack
+
+- [leetcode_0032 https://leetcode.com/problems/longest-valid-parentheses/](stack/leetcode_0032/leetcode_0032.md)
