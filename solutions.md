@@ -24,3 +24,7 @@
 ## Math
 
 - [leetcode_0172 Factorial Trailing Zeroes](math/leetcode_0172/leetcode_0172.md)
+
+## Sort
+
+- [leetcode_0023 Merge k Sorted Lists](sort/leetcode_0023/leetcode_0023.md)
