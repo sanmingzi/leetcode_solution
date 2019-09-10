@@ -4,6 +4,7 @@
 
 - [leetcode_0001](simulate/leetcode_0001/leetcode_0001.md)
 - [leetcode_0002](simulate/leetcode_0002/leetcode_0002.md)
+- [leetcode_0041 First Missing Positive](simulate/leetcode_0041/leetcode_0041.md)
 - [leetcode_0167 Two Sum II - Input array is sorted](simulate/leetcode_0167/leetcode_0167.md)
 - [leetcode_0168 Excel Sheet Column Title](simulate/leetcode_0168/leetcode_0168.md)
 
