@@ -9,7 +9,7 @@ Given a string S and a string T, find the minimum window in S which will contain
 
 - Example
 
-```
+```markdown
 input:
 "a"
 "aa"
@@ -18,7 +18,7 @@ output:
 ""
 ```
 
-```
+```markdown
 input:
 "abceeeeedddc"
 "abcc"
@@ -46,7 +46,7 @@ end
 # set [lo, hi) as the border of the window
 
 # count = 0, means all chars in T is included in window
-# hash[c] <= 0, means all of the char c in T is included in window 
+# hash[c] <= 0, means all of the char c in T is included in window
 
 # if(count > 0), there are some chars in string T but not in the window
 # expand the window, hash[hi] -= 1, hi += 1
