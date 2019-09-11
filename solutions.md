@@ -8,6 +8,7 @@
 - [leetcode_0041 First Missing Positive](simulate/leetcode_0041/leetcode_0041.md)
 - [leetcode_0065 Valid Number](simulate/leetcode_0065/leetcode_0065.md)
 - [leetcode_0167 Two Sum II - Input array is sorted](simulate/leetcode_0167/leetcode_0167.md)
+- [leetcode_0068 Text Justification](simulate/leetcode_0068/leetcode_0068.md)
 - [leetcode_0168 Excel Sheet Column Title](simulate/leetcode_0168/leetcode_0168.md)
 
 ## Dynamic Programming
