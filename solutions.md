@@ -11,6 +11,10 @@
 - [leetcode_0068 Text Justification](simulate/leetcode_0068/leetcode_0068.md)
 - [leetcode_0168 Excel Sheet Column Title](simulate/leetcode_0168/leetcode_0168.md)
 
+## Binary Chop
+
+- [leetcode_0004 Median of Two Sorted Arrays](binary_chop/leetcode_0004/leetcode_0004.md)
+
 ## Dynamic Programming
 
 - [leetcode_0003](dynamic_programming/leetcode_0003/leetcode_0003.md)
