@@ -47,6 +47,7 @@
 ## BFS(Breadth First Search)
 
 - [leetcode_0045 Jump Game II](bfs/leetcode_0045/leetcode_0045.md)
+- [leetcode_0072 Edit Distance](bfs/leetcode_0072/leetcode_0072.md)
 
 ## Stack
 
