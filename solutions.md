@@ -60,3 +60,7 @@
 ## Sliding Window
 
 - [leetcode_0076 Minimum Window Substring](sliding_window/leetcode_0076/leetcode_0076.md)
+
+## palindrome
+
+- [leetcode_0214 Shortest Palindrome](palindrome/leetcode_0214/leetcode_0214.md)
