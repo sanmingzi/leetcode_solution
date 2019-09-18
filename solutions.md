@@ -14,6 +14,7 @@
 ## Binary Chop
 
 - [leetcode_0004 Median of Two Sorted Arrays](binary_chop/leetcode_0004/leetcode_0004.md)
+- [leetcode_0084 Largest Rectangle in Histogram](binary_chop/leetcode_0084/leetcode_0084.md)
 
 ## Dynamic Programming
 
