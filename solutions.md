@@ -61,6 +61,7 @@
 - [leetcode_0044 Wildcard Matching](recursion/leetcode_0044/leetcode_0044.md)
 - [leetcode_0087 Scramble String](recursion/leetcode_0087/leetcode_0087.md)
 - [leetcode_0097 Interleaving String](recursion/leetcode_0097/leetcode_0097.md)
+- [leetcode_0099 Recover Binary Search Tree](recursion/leetcode_0099/leetcode_0099.md)
 
 ## Sliding Window
 
