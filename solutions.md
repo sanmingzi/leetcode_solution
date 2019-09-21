@@ -68,6 +68,10 @@
 
 - [leetcode_0076 Minimum Window Substring](sliding_window/leetcode_0076/leetcode_0076.md)
 
-## palindrome
+## Palindrome
 
 - [leetcode_0214 Shortest Palindrome](palindrome/leetcode_0214/leetcode_0214.md)
+
+## KMP
+
+- [leetcode_0028 Implement strStr()](kmp/leetcode_0028/leetcode_0028.md)
